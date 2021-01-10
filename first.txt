@@ -1,0 +1,6 @@
+Gitの練習
+ワークフロー
+.git add
+.git commit
+-v 確認
+.git rm
